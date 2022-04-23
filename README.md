@@ -20,7 +20,7 @@
 
 - Credits https://github.com/TWIST-X7
 
-## Specs
+## Specs 💪
 - NVIDIA GeForce RTX 3060
 - AMD Ryzen 5 5600X 6-Core Processor
 - 16 GB RAM
