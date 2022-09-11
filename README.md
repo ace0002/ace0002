@@ -18,8 +18,6 @@
 ### Hosting Services
 ![dg](https://img.shields.io/badge/-DigitalOcean-blue) ![heroku](https://img.shields.io/badge/-Heroku-blueviolet)
 
-- Credits https://github.com/TWIST-X7
-
 ## Specs 💪
 - NVIDIA GeForce RTX 3060
 - AMD Ryzen 5 5600X 6-Core Processor
